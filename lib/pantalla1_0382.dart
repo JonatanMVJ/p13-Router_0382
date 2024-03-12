@@ -21,7 +21,7 @@ class Pantalla1_0382 extends StatelessWidget {
       ),
     );
   }
-}
+} //
 
 ///
 //ma

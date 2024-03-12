@@ -34,3 +34,4 @@ class Pantallainicial_0382 extends StatelessWidget {
 } //fin de la clase Pantallainicial_0382
 //Jonatan
 //ma
+//
